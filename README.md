@@ -40,3 +40,9 @@ Unreal 가상 EO/IR 장비와 Windows MFC 관제 콘솔을 TCP로 연결한 C++2
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+## GitHub Contributions · Season (북반구)
+
+![GitHub 3D Contributions — Northern Hemisphere Season](./profile-3d-contrib/profile-season-animate.svg)
+
+> 기여도 그래프는 GitHub Actions로 매일 갱신됩니다. 최초 이미지는 [Actions에서 GitHub-Profile-3D-Contrib를 수동 실행](https://github.com/jihoon-c/jihoon-c/actions/workflows/profile-3d.yml)하면 생성됩니다.
